@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example.
 more changes from my feature branch
+UPDATING EMERGENCY
 
 ## Introduction
 This example show different parts of the Git repository
