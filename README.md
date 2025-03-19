@@ -23,5 +23,5 @@ This is a simple web project, deployment can be on any web server or
 even local file system.
 
 ## Copyright
-2025 Git Training
+2025 Git Training. All rights reserved
 
